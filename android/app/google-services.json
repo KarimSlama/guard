@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "112688928818",
+    "project_id": "guard-831fc",
+    "storage_bucket": "guard-831fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112688928818:android:cc04cd1f7381a7d18c042b",
+        "android_client_info": {
+          "package_name": "com.guard.ar.guard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112688928818-mfuikqmcm65q5gp9f6lbrhpuio420g78.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.guard.ar.guard",
+            "certificate_hash": "f7c75b9950ada97604c26908e581a336790c9483"
+          }
+        },
+        {
+          "client_id": "112688928818-fcr2i7brh27pdpjffv781vjclqt7pi0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuwTFvBCSQ7Ny2podYm6iEX4D-pAXIlSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112688928818-fcr2i7brh27pdpjffv781vjclqt7pi0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
